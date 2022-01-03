@@ -1,2 +1,3 @@
 # rsschool-cv
-# https://github.com/GolubtsovVV/rsschool-cv/blob/main/cv.md
+# https://GolubtsovVV.github.io/rsschool-cv/cv.md
+
