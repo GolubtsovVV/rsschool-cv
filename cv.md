@@ -14,7 +14,7 @@ In progress: HTML, CSS, Git.
 
 
 ### Code example:
-None
+None.
 
 ### Courses:
 In progress: RS JS Stage 0.
